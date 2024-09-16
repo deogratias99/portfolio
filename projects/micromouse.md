@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: "Micromouse"
+title: "HotelBooking"
 date: 2024
 published: true
 labels:
@@ -24,4 +24,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can look at the code on [github](https://github.com/deogratias99/Hotel-Booking).
