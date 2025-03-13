@@ -31,17 +31,5 @@
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
-  "education": [
-    {
-      "institution": "Western Governors University, Salt Lake, UT",
-      "area": "Computer Science (expected Spring, 2025)",
-      "studyType": "B.S.",
-      "startDate": "2023-01-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-
  
 }
